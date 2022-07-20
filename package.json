@@ -1,0 +1,10 @@
+{
+  "name": "nasa-rover-challenge",
+  "version": "1.0.0",
+  "description": "code-challenge",
+  "main": "index.js",
+  "repository": "https://github.com/brokenmold/nasa-rover-challenge.git",
+  "author": "Jason Glass <jason@broken-mold.com>",
+  "license": "MIT",
+  "private": false
+}
