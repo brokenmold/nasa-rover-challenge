@@ -7,6 +7,7 @@
   "author": "Jason Glass <jason@broken-mold.com>",
   "license": "MIT",
   "private": false,
+  "type": "module",
   "dependencies": {
     "dotenv": "^16.0.1",
     "node-fetch": "^3.2.9"
