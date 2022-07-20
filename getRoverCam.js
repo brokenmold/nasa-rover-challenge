@@ -7,7 +7,8 @@ const getRoverCam = (params) => {
 
   // Fetch Params
   const config = {
-    key:    process.env.NASA_KEY,
+    // key:    process.env.NASA_KEY,
+    key:    'DEMO_KEY',
     url:    'https://api.nasa.gov/mars-photos/api/v1/rovers',
     rover:  params.rover,
     camera: params.camera,
